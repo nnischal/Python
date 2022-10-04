@@ -1,0 +1,5 @@
+print("Welcome to the baby name generator.\n")
+city = input("Which  city did you grow up in?\n")
+boy = input("What is your name?\n")
+girl = input("What is your name?\n")
+print("Your band name could be " + city + " " + boy + " " + girl)
